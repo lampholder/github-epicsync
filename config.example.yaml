@@ -1,0 +1,8 @@
+github_token: secrettokensecrettokensecrettoken
+target_repos:
+    - example-owner/repo
+    - different-example-owner/different-repo
+webhook_secret: webhooksecretwebhooksecretwebhooksecret
+entity_prefix_map:
+    issue: story
+    milestone: epic
