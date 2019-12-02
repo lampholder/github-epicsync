@@ -1,2 +1,3 @@
 config.yaml
 zappa_settings.json
+__pycache__/
